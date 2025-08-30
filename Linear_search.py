@@ -1,3 +1,5 @@
+# Time Complexity:O(n)
+
 def linearsearch(arr,target):
     n= len(arr)
     for i in range(n):
@@ -6,6 +8,6 @@ def linearsearch(arr,target):
     return -1
 if __name__=="__main__":
     arr=[1,2,3,4,5]
-    target=3
+    target=5
     result=linearsearch(arr,target)
     print("Element found at index:",result) if result!=-1 else print("Element not found")
