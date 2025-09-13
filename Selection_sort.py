@@ -1,14 +1,18 @@
 def selection(arr):
     n=len(arr)
     for i in range(n):
-        min_index=i
+        min=i
         for j in range(i+1,n):
-            if arr[j]<arr[min_index]:
-                min_index=j
-        arr[i],arr[min_index]=arr[min_index],arr[i]
+            if arr[j]<arr[min]:
+                min=j
+        arr[i],arr[min]=arr[min],arr[i]
     return arr
+    
 if __name__=="__main__":
-    arr=[64,25,12,22,11]
-    print("Unsorted array:",arr)
-    sorted_array=selection(arr)
-    print("Sorted array:",sorted_array)
+    import random as rd
+    arr=[]
+    arr=rd.sample(range(1,100),99)
+    print("Unsorted array is:",arr)
+    
+    ans=selection(arr)
+    print(ans)
