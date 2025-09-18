@@ -20,3 +20,15 @@ The task is to complete the function create_dict() which takes arr as input and 
 Constraints:
 1 <= N <= 104
 1 <= marks <= 104"""
+def create_dict(arr):
+
+    dict = {}
+
+    # Your code here
+    # Hint: use loop to iterate through arr
+    # and assign key value to the dict
+    for i,j in arr:
+        dict[i]=j
+        
+
+    return dict
