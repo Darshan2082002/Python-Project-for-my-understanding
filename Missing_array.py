@@ -19,3 +19,13 @@ Constraints:
 
 
 """
+
+
+class Solution:
+    def missingNum(self, arr):
+        # code here
+        n=len(arr)+1
+        exp_arr=n*(n+1)//2
+        act_sum=sum(arr)
+        ans=exp_arr-act_sum
+        return ans
