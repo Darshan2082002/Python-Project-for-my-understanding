@@ -12,3 +12,18 @@ Input:
 arr = (1, 2, 3, 4, 5)
 Output: True
 """
+
+
+#User function Template for python3
+arr = tuple(map(int, input().split()))
+
+########### Write your code below ###############
+# Print "True" if all elements of tuple are different, otherwise print "False"
+
+########### Write your code above ###############
+s1=set(arr)
+
+if len(arr)!=len(s1):
+    print(False)
+else:
+    print(True)
