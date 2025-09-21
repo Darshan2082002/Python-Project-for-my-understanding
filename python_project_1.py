@@ -4,6 +4,8 @@ class Node:
         self.Next=None
         self.prev=None
 def insert(data):
+    if data is None:
+        return Node(data)
 def display():
 def delete(data):
 def search(data):
