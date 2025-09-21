@@ -6,6 +6,13 @@ class Node:
 def insert(data):
     if data is None:
         return Node(data)
+    else:
+        n
+            current=head
+            while current.Next:
+                current=current.Next
+            current.Next=new_node
+            new_node.prev=current
 def display():
 def delete(data):
 def search(data):
