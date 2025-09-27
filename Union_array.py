@@ -9,6 +9,17 @@ def union(a,b):
     res=[]
     for it in st:
         res.append(it)
+    return res
+
+
+if __name__ == "__main__":
+    a = [1, 2, 3, 2, 1]
+    b = [3, 2, 2, 3, 3, 2]
+
+    res = union(a, b)
+
+    for i in range(len(res)):
+        print(res[i], end = ' ')
         
         
         
