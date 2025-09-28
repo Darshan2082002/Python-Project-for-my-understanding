@@ -13,7 +13,7 @@ def union(a,b):
 
 
 if __name__ == "__main__":
-    a = [1, 2, 3]
+    a = [1, 2, 3,1,5,4,7]
     b = [3, 2, 2, 3, 3, 2]
 
     res = union(a, b)
