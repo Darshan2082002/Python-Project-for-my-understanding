@@ -17,8 +17,8 @@ if __name__ == "__main__":
     b = [3, 2, 2, 3, 3, 2]
 
     res = union(a, b)
-
-    for i in range(len(res)):
+    n=len(res)
+    for i in range(n):
         print(res[i], end = '   ')
         
         
