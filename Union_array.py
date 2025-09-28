@@ -19,7 +19,7 @@ if __name__ == "__main__":
     res = union(a, b)
 
     for i in range(len(res)):
-        print(res[i], end = ' ')
+        print(res[i], end = '   ')
         
         
         
