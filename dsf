@@ -1,0 +1,4 @@
+def dfs (vector, edge, src):
+visited=set()
+stack=[start]
+
