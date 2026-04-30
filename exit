@@ -1,0 +1,273 @@
+[33mcommit 28160c6a638abb49584e108abd3cb169165273bb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Thu Apr 30 11:50:35 2026 +0530
+
+    hagman game basic desing for practice is being uploaded to  the git hub server
+
+[33mcommit 779047fbf60135f01db6a49a0317d2c101860cc4[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Thu Apr 30 09:23:33 2026 +0530
+
+    word guessing program
+
+[33mcommit 1103fff6858001f0c2470549612b14ef47342f77[m
+Merge: effd8eb 976c746
+Author: Darshan B <87748126+Darshan2082002@users.noreply.github.com>
+Date:   Thu Apr 30 08:27:11 2026 +0530
+
+    Merge pull request #2 from Darshan2082002/darshan
+    
+    Darshan
+
+[33mcommit 976c746b91615cc32fe74d50d0dc020d28cd9756[m[33m ([m[1;31morigin/darshan[m[33m, [m[1;32mdarshan[m[33m)[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Thu Apr 30 08:22:21 2026 +0530
+
+    Guessing the word
+
+[33mcommit 5c824debc3d62b92e06bc22f81b05dc850904db2[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Thu Apr 30 08:12:57 2026 +0530
+
+    Number Guessing game
+
+[33mcommit 1645d3d72722fd982688a3263e8bf31f6c315f36[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Wed Apr 29 20:12:05 2026 +0530
+
+    CLi program
+
+[33mcommit effd8eb058bcbc2b61acb705cd6087d8288a367a[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Mon Apr 27 22:19:59 2026 +0530
+
+    removeing duplicate in given array
+
+[33mcommit 86ea5ed20d8f32d4391646c45e781ee9bcd704b7[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Fri Mar 27 23:52:23 2026 +0530
+
+    modified the algorithm
+
+[33mcommit 6eb2b79194d32c6a47762cb530d2aa9554f587e4[m
+Merge: eba67dd 7fb9de8
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Sun Mar 22 21:54:23 2026 +0530
+
+    Merge branch 'main' of https://github.com/Darshan2082002/Python-Project-for-my-understanding
+
+[33mcommit eba67dd5de31e0193370f59cf05eb958851453d7[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Sun Mar 22 21:54:08 2026 +0530
+
+    AVl changes
+
+[33mcommit 7fb9de85ade586fa3726f1e9abe2f51324db3047[m
+Author: Darshan B <87748126+Darshan2082002@users.noreply.github.com>
+Date:   Mon Feb 23 22:36:52 2026 +0530
+
+    Create OPzo
+
+[33mcommit 0153377a39fd89f1edc6a1bbf127cd0abe22d15b[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Sun Feb 22 09:10:39 2026 +0530
+
+    Tabluzation learning
+
+[33mcommit 5f3a95c702529a10b663e8053d449d88983dad36[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Sat Feb 21 23:51:07 2026 +0530
+
+    DP
+
+[33mcommit a12d0a2411aa8f6f5bb53ad1fe231a8ed4927377[m[33m ([m[1;31morigin/DSA[m[33m)[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Fri Feb 20 23:28:05 2026 +0530
+
+    Tri programming Logic
+
+[33mcommit a133be8dbc03d084f493d681369646af25a862ea[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Fri Feb 20 23:21:14 2026 +0530
+
+    Dynamic programming and tensorflow file
+
+[33mcommit 8b0cf916f5caa550a4f45a177cf8a53ea924b678[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Thu Feb 19 23:37:08 2026 +0530
+
+    DP
+
+[33mcommit 9565199ef08027a855e37ed6dbe7294e2e9b053e[m
+Author: Darshan2082002 <baludarshan20@gmail.com>
+Date:   Tue Feb 10 08:28:58 2026 +0530
+
+    Practicing 3 sum logic
+
+[33mcommit b6353494d647915f78762e11dcc3ba778ce7333a[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Feb 5 00:12:03 2026 +0530
+
+    practice for AI
+
+[33mcommit fd1ae158e0f2d44f9f83eda12d115d8648445801[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Feb 4 21:39:33 2026 +0530
+
+    Practice
+
+[33mcommit cdbb3733dce6249830658f725f1a57caf8abfdc7[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 29 21:52:13 2026 +0530
+
+    Practice session
+
+[33mcommit 3b3be29da80a5d6e502ed9cc5e6ee820e3090afa[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 29 20:09:28 2026 +0530
+
+    change of folder
+
+[33mcommit 1a08bdb9b1648d469c72d07942238f22f0940617[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 29 20:09:09 2026 +0530
+
+    change of folder
+
+[33mcommit b80d2fdf4df2f83c7bd313c60df557a52af27ed3[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 29 20:08:51 2026 +0530
+
+    Change of  folder
+
+[33mcommit d83822a42d3357ca930645bc2da8bd82826d518e[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 29 20:08:36 2026 +0530
+
+    Change of Folder
+
+[33mcommit 4a5a345be28196cd115a4f82fc53421392e6e696[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 28 23:09:30 2026 +0530
+
+    CNN practice
+
+[33mcommit 179a8b31cf680fdabefc7bc7dd74483a916885f5[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 28 23:00:12 2026 +0530
+
+    Filtering
+
+[33mcommit e58eddbf88746bf284902e29b52062166a08044a[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 28 21:42:13 2026 +0530
+
+    Computer Vision Practice
+
+[33mcommit ffec5cd8d5a4598013f27581cd465b6d8f80fa44[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 28 08:33:05 2026 +0530
+
+    Basic image learning
+
+[33mcommit fecbe072d0582ed6d80ae691aa4cf84094efeaca[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Tue Jan 27 22:41:00 2026 +0530
+
+    CV practice session
+
+[33mcommit 247a4480ef9e3ba3219ac27dd2212f605ed0dd85[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 22 23:09:08 2026 +0530
+
+    update
+
+[33mcommit 2426a9d8f17549ce0e565a0ee463f1629c50a70a[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 21 20:31:48 2026 +0530
+
+    Training Non Lineraity
+
+[33mcommit 6056fc55a036258dec5c2ee0d9b152b877bb2156[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Wed Jan 21 20:25:54 2026 +0530
+
+    Model Training for Non linearity
+
+[33mcommit 496110df3ef8d19766dd440c06197b45f5d4ca80[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Tue Jan 20 21:31:57 2026 +0530
+
+    Computer Vision
+    GPU implemetation
+
+[33mcommit 4750baa7888c8b93b2cd9da2728adab42af4c579[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Tue Jan 20 21:28:22 2026 +0530
+
+    Computer Vision training
+
+[33mcommit 4e9c9949a81f2debc09af029201c4919228c898f[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Mon Jan 19 20:20:25 2026 +0530
+
+    Threading concept learning
+
+[33mcommit 6346929bb68798404530e2ebdd7e8a8812a2f5b5[m
+Merge: 0735237 7c477ef
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Sun Jan 18 22:49:59 2026 +0530
+
+    Merge branch 'main' of https://github.com/Darshan2082002/Python-Project-for-my-understanding
+
+[33mcommit 07352373fd0d720ad89f5c40dc32664d48b7ea7b[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Sun Jan 18 22:43:54 2026 +0530
+
+    update
+
+[33mcommit 7c477ef64ea376a6fe85023341f861ccbff634da[m
+Author: Darshan B <87748126+Darshan2082002@users.noreply.github.com>
+Date:   Fri Jan 16 22:21:31 2026 +0530
+
+    Update Chapter_2.ipynb
+
+[33mcommit c2e87eb4669494fe08d4e0bdc0ce1ad3bc8d4b18[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 15 21:24:44 2026 +0530
+
+    torch implementation
+
+[33mcommit fd916b6a16d290960c3e8e3217192cfac9a6afe9[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Tue Jan 13 22:00:46 2026 +0530
+
+    update
+
+[33mcommit 52a6824c7ace52fa68c44944ec4367fdbb99f268[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Mon Jan 12 22:20:26 2026 +0530
+
+    working on the error
+
+[33mcommit 49174e100ab512af2278db1becd171593fe46ef0[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Sun Jan 11 20:06:39 2026 +0530
+
+    Training the model
+
+[33mcommit a2600a84f4c0ecedf0d5cd3fc26548c565cbce39[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Fri Jan 9 20:20:07 2026 +0530
+
+    update the fiel for gray image application
+
+[33mcommit 35d3faabc031c7559c8984c34a84ba198e8e359d[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Fri Jan 9 19:51:36 2026 +0530
+
+    Code rework
+
+[33mcommit 38aaa51b9f04603e85b311719a82f86ddf95a645[m
+Author: Darshan2082002 <darshanbalu20@gmail.com>
+Date:   Thu Jan 8 08:35:28 
