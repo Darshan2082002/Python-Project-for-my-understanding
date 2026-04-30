@@ -16,3 +16,5 @@ def load_data():
 def save_expensive(exp):
     with open(Data,"w") as file:
         json.dump(exp,file,indent=4)
+def expensive():
+    return 

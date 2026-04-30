@@ -1,6 +1,6 @@
 class Tree:
     def __init__(self, value):
-        self.value = v alue
+        self.value = value
         self.left = None
         self.right = None
         self.height = 1
