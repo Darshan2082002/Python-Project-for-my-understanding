@@ -3,5 +3,14 @@
     "python.REPL.enableREPLSmartSend": false,
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
-    "python-envs.pythonProjects": []
+    "python-envs.pythonProjects": [],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "PracticeDB",
+            "database": "practice.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
 }
