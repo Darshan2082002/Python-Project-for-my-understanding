@@ -9,7 +9,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "PracticeDB",
-            "database": "practice.db"
+            "database": "${workspaceFolder:Python Project for my understanding}/practice.db"
         }
     ],
     "sqltools.useNodeRuntime": true
